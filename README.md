@@ -11,14 +11,14 @@
     ```
 
 2. Open in VSCode
-	Run "Dev containers: Reopen in Container" (`Ctrl+Shift+P` to find the command)
+	- Run "Dev containers: Reopen in Container" (`Ctrl+Shift+P` to find the command)
 
 3. Setup XLaunch
-	Install and open XLaunch
-	Keep default options
+	- Install and open XLaunch
+	- Keep default options
 
 4. In VSCode terminal
-	Run 
-	```
-	ros2 launch rmf_demos_gz office.launch.xml
-	```
+	- Run 
+        ```
+        ros2 launch rmf_demos_gz office.launch.xml
+        ```
